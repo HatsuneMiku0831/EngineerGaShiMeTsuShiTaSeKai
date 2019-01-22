@@ -1,4 +1,3 @@
-# EngineerGaShiMeTsuShiTaSeKai
 # エンジニアが死滅シタ世界
 # 《程序员灭亡的世界~和机器人一起生活吧》
 
